@@ -28,12 +28,14 @@ style属性可以是一个普通的 JavaScript 对象。这是最简单的用法
 组件的生命周期
 
 ## CSS和UI布局
-1 flex 属性表示改元素是可伸缩的
+1 flex ：属性表示改元素是可伸缩的
 
-2 flexDirection 在React-Native中只有两个属性，一个是row(横向伸缩)和column(纵向伸缩)
+2 flexDirection： 在React-Native中只有两个属性，一个是row(横向伸缩)和column(纵向伸缩)
 
-3 alignSelf:对齐方式
+3 alignSelf: 对齐方式
    alignSelf的对齐方式主要有四种：flex-start、 flex-end、 center、  auto、 stretch
    
-4 水平垂直居中
+4 水平垂直居中：
    alignItems是alignSelf的变种，跟alignSelf的功能类似，可用于水平居中；justifyContent用于垂直居中，属性较多，可以了解下
+   
+## 布局实战一
