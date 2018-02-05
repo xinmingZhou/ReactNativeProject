@@ -39,3 +39,9 @@ style属性可以是一个普通的 JavaScript 对象。这是最简单的用法
    alignItems是alignSelf的变种，跟alignSelf的功能类似，可用于水平居中；justifyContent用于垂直居中，属性较多，可以了解下
    
 ## 布局实战一
+
+## 创建导航页面
+创建导航栏， Navigator的使用
+
+## 搜索页面事件绑定
+touchableHight的事件绑定
